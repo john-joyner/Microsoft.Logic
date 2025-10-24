@@ -35,5 +35,16 @@ There are two (2) Logic apps that are part of this solution:
 
 Read the detailed step-by-step instruction at this link: https://blog.johnjoyner.net/integrate-azure-monitor-alerts-from-servers-with-your-itsm-system/
 
-![1-SolutionOverview](../Integrate-Azure-Monitor-alerts-with-your-ITSM-Solution/images/Azure-Monitor-ITSM-HTTP-API SolutionOverview.jpg)
+<b>Solution Overview</b>
+
+![1-SolutionOverview](https://github.com/john-joyner/Microsoft.Logic/blob/main/Integrate-Azure-Monitor-alerts-with-your-ITSM-Solution/images/Azure-Monitor-ITSM-HTTP-API%20SolutionOverview.jpg)
+
+<b>Azure-Monitor-Alert-ITSM-HTTP-API Functional Diagram</b>
+
+![2-AlertFunctionalDiagram](https://github.com/john-joyner/Microsoft.Logic/blob/main/Integrate-Azure-Monitor-alerts-with-your-ITSM-Solution/images/Azure-Monitor-Alert-ITSM-HTTP-API%20Functional%20Diagram.jpg)
+
+<b>Azure-Monitor-Close-ITSM-HTTP-API Functional Diagram</b>
+
+![3-CloseFunctionalDiagram](https://github.com/john-joyner/Microsoft.Logic/blob/main/Integrate-Azure-Monitor-alerts-with-your-ITSM-Solution/images/Azure-Monitor-Close-ITSM-HTTP-API%20Functional%20Diagram.jpg)
+
 
