@@ -15,7 +15,7 @@
             "type": "String"
         },
         "userAssignedIdentities_ITSM_MI_externalid": {
-            "defaultValue": "/subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/MyResourceGroup/providers/Microsoft.ManagedIdentity/userAssignedIdentities/ITSM-MI",
+            "defaultValue": "/subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/<MyResourceGroup>/providers/Microsoft.ManagedIdentity/userAssignedIdentities/ITSM-MI",
             "type": "String"
         }
     },
