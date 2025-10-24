@@ -11,11 +11,11 @@ There are two (2) Logic apps that are part of this solution:
 
 ### Click to Deploy Azure-Monitor-Alert-ITSM-HTTP-API to Azure
 
-<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fjohn-joyner%2FMicrosoft.Logic%2Frefs%2Fheads%2Fmain%2FIntegrate%2520Azure%2520Monitor%2520alerts%2520with%2520your%2520ITSM%2520Solution%2FAzure-Monitor-Alert-ITSM-HTTP-API.json" target="_blank">
+<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fjohn-joyner%2FMicrosoft.Logic%2Frefs%2Fheads%2Fmain%2FIntegrate-Azure-Monitor-alerts-with-your-ITSM-Solution%2FAzure-Monitor-Alert-ITSM-HTTP-API.json" target="_blank">
     <img src="https://aka.ms/deploytoazurebutton"/>
 </a>
 
-<a href="https://portal.azure.us/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fjohn-joyner%2FMicrosoft.Logic%2Frefs%2Fheads%2Fmain%2FIntegrate%2520Azure%2520Monitor%2520alerts%2520with%2520your%2520ITSM%2520Solution%2FAzure-Monitor-Alert-ITSM-HTTP-API.json" target="_blank">
+<a href="https://portal.azure.us/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fjohn-joyner%2FMicrosoft.Logic%2Frefs%2Fheads%2Fmain%2FIntegrate-Azure-Monitor-alerts-with-your-ITSM-Solution%2FAzure-Monitor-Alert-ITSM-HTTP-API.json" target="_blank">
 <img src="https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/deploytoazuregov.png"/>
 </a>
 
