@@ -35,3 +35,5 @@ There are two (2) Logic apps that are part of this solution:
 
 Read the detailed step-by-step instruction at this link: https://blog.johnjoyner.net/integrate-azure-monitor-alerts-from-servers-with-your-itsm-system/
 
+![1-SolutionOverview](../Integrate-Azure-Monitor-alerts-with-your-ITSM-Solution/images/Azure-Monitor-ITSM-HTTP-API SolutionOverview.jpg)
+
