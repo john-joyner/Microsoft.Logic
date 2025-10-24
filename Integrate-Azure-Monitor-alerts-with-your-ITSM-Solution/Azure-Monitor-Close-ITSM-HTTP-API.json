@@ -11,7 +11,7 @@
             "type": "String"
         },
         "subscriptionId": {
-            "defaultValue": "00000000-0000-0000-0000-000000000000",
+            "defaultValue": "[subscription().subscriptionId]",
             "type": "String"
         },
         "userAssignedIdentities_ITSM_MI_externalid": {
