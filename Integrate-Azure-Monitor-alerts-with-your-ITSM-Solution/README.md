@@ -31,7 +31,7 @@ There are two (2) Logic apps that are part of this solution:
 
 ### IMPORTANT POST DEPLOYMENT STEPS
 
-<b>Extensive customization of this Logic App is required before it will work in your environment.</b> 
+<b>Extensive customization of this Logic app may be required before it will work in your environment.</b> 
 
 Read the detailed step-by-step instruction at this link: https://blog.johnjoyner.net/integrate-azure-monitor-alerts-from-servers-with-your-itsm-system/
 
