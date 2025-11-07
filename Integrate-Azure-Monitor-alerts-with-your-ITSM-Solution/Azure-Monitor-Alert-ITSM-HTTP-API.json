@@ -1458,10 +1458,10 @@
                     }
                 },
                 "accessControl": {
-                     "contents": {
+                     "triggers": {
                           "allowedCallerIpAddresses": [
                             {
-                          "addressRange": "192.168.12.0/23"
+                          "addressRange": "192.168.1.0/24"
                             },
                            {
                           "addressRange": "2001:0db8::/64"
@@ -1477,7 +1477,17 @@
                           "addressRange": "2001:0db8::/64"
                            }
                        ]
-                    }
+                    },
+                    "contents": {
+                          "allowedCallerIpAddresses": [
+                            {
+                          "addressRange": "192.168.1.0/24"
+                            },
+                            {
+                          "addressRange": "2001:0db8::/64"
+                           }
+                       ]
+                    }                    
                 }
             }
         }
