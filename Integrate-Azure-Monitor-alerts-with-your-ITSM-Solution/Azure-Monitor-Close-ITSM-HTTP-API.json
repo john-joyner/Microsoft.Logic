@@ -302,7 +302,39 @@
                     "$connections": {
                         "value": {}
                     }
-                }
+                },
+                "accessControl": {
+                     "triggers": {
+                          "allowedCallerIpAddresses": [
+                            {
+                          "addressRange": "192.168.1.0/24"
+                            },
+                           {
+                          "addressRange": "2001:0db8::/64"
+                           }
+                       ]
+                     },
+                    "actions": {
+                          "allowedCallerIpAddresses": [
+                            {
+                          "addressRange": "192.168.1.0/24"
+                            },
+                            {
+                          "addressRange": "2001:0db8::/64"
+                           }
+                       ]
+                    },
+                    "contents": {
+                          "allowedCallerIpAddresses": [
+                            {
+                          "addressRange": "192.168.1.0/24"
+                            },
+                            {
+                          "addressRange": "2001:0db8::/64"
+                           }
+                       ]
+                    }                    
+                }                
             }
         }    
     ]
