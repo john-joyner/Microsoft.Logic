@@ -1467,7 +1467,7 @@
                           "addressRange": "2001:0db8::/64"
                            }
                        ]
-                   },
+                     },
                     "actions": {
                           "allowedCallerIpAddresses": [
                             {
