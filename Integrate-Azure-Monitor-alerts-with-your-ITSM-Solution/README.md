@@ -35,6 +35,8 @@ There are two (2) Logic apps that are part of this solution:
 
 Read the detailed step-by-step instruction at this link: https://blog.johnjoyner.net/integrate-azure-monitor-alerts-from-servers-with-your-itsm-system/
 
+<u>Note</u>: The Logic apps deploy in a Disabled state and with Access Control Configuration <i>Allowed inbound IP address</i> settings enabled to comply with a Zero Trust model. When you are ready, Enable the Logic apps and customize the Access Control Configuration of both Logic apps so you can begin to test them.
+
 <b>Solution Overview</b>
 
 ![1-SolutionOverview](https://github.com/john-joyner/Microsoft.Logic/blob/main/Integrate-Azure-Monitor-alerts-with-your-ITSM-Solution/images/Azure-Monitor-ITSM-HTTP-API%20SolutionOverview.jpg)
